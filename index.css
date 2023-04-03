@@ -181,6 +181,8 @@ body.dark{
     padding: 0 20px;
     gap : 20px;
     cursor: pointer;
+    background-color: var(--bgclr);
+    color: var(--tclr);
 }
 .container .center{
     position: relative;
